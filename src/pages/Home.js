@@ -29,7 +29,7 @@ function Home() {
           <Row>
             <Col lg={7} md={9} className="mx-auto">
               <div className="banner-info">
-                <p className="title">Unlimited movies, TV shows, and more.</p>
+                <p className="title">Unlimited Songs, TV shows, and more.</p>
                 <p className="banner-text_watch">
                   Watch anywhere. Cancel anytime.
                 </p>
